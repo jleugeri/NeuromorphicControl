@@ -21,7 +21,7 @@ NeuromorphicControl/
 │       ├── README.md        # recording link, topics covered
 │       └── slides.*         # slide deck
 ├── homework/
-│   ├── README.md
+│   ├── README.md            # table of assignments with notebook and Colab links
 │   └── hwNN_<topic>/        # one folder per assignment
 │       ├── exercise.ipynb   # notebook for students
 │       └── solution.ipynb   # notebook with solutions
