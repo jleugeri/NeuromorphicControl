@@ -34,7 +34,10 @@ NeuromorphicControl/
 ## Getting Started
 
 The homework exercises are provided as [Jupyter](https://jupyter.org/) notebooks.
-To run them locally, install the dependencies and launch JupyterLab:
+
+**Option A – Google Colab (no installation needed):** click the *Open in Colab* badge at the top of any notebook to run it directly in your browser.
+
+**Option B – Local setup:** install the dependencies and launch JupyterLab:
 
 ```bash
 pip install jupyterlab numpy matplotlib
